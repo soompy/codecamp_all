@@ -6,6 +6,7 @@
     "typescript": "^5.5.2"
   },
   "dependencies": {
-    "ts-node": "^10.9.2"
+    "ts-node": "^10.9.2",
+    "typeorm": "^0.3.20"
   }
 }
